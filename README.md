@@ -13,7 +13,7 @@ To create the earthquake data in relation to the tectonic plates location on the
 
 #### Satelllite View Map
 
-![2](https://github.com/Poonsri14/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/image/sattellite.png)
+![2](https://github.com/Poonsri14/Mapping_Earthquakes/blob/main/Earthquake_Challenge/static/image/satellite.png)
 
 
 #### Dark View Map
